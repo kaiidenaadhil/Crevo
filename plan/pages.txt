@@ -1,0 +1,95 @@
+General Pages
+Home (/)
+
+Showcase platform features and CTAs.
+About Us (/about)
+
+Platform mission and team overview.
+Contact (/contact)
+
+Inquiry form for feedback and support.
+Pricing (/pricing)
+
+Subscription and pay-per-use plans.
+Auth (/auth)
+
+Login/Register/Forgot Password workflows.
+Dashboard Pages
+User Dashboard (/dashboard)
+Overview of user activities and generated content.
+Content Creation Pages
+Text Creator (/create/text)
+
+Generate blogs, articles, and captions with AI.
+Image Designer (/create/image)
+
+Create social media graphics and visuals with AI.
+Video Generator (/create/video)
+
+Generate short videos with captions and transitions.
+My Content (/content)
+
+View and manage all saved content:
+Text (/content/text)
+Images (/content/images)
+Videos (/content/videos)
+Content Marketplace
+Marketplace (/marketplace)
+
+Browse and purchase content.
+Content Details (/marketplace/:id)
+
+View detailed content information and purchase options.
+Sell Content (/sell/content)
+
+Upload or list generated content for sale.
+Orders and Sales
+My Orders (/orders)
+
+List of purchased content with downloads.
+My Sales (/sales)
+
+Track sold content and earnings.
+Collaborative Workspace
+Workspace (/workspace)
+Team management for content approvals and comments.
+Analytics and Insights
+Analytics (/analytics)
+Insights on content performance and recommendations.
+Account Management
+Profile Settings (/profile)
+
+Update user profile and preferences.
+Billing History (/billing)
+
+Payment history and invoices.
+Admin Features
+Admin Dashboard (/admin/dashboard)
+
+Platform-wide analytics and metrics.
+Manage Users (/admin/users)
+
+List and manage user accounts.
+Moderate Content (/admin/content)
+
+Review and manage marketplace content.
+Monetization Pages
+Subscription Plans (/subscribe)
+
+Manage or upgrade subscriptions.
+Pay-per-Use Payment (/payment)
+
+Pay for content generation on demand.
+Outstanding UX Features
+Custom Branding (/branding)
+
+Enable Pro users to customize content with branding.
+Export Options (/export)
+
+Export content in multiple formats.
+Next Steps
+Focus on creating the following in order:
+
+Dashboard (/dashboard)
+Text Creator (/create/text)
+Content Marketplace (/marketplace)
